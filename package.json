@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pavelkuznetsov/react-datagrid2-with-load-mask.git"
+    "url": "https://github.com/guncedev/react-datagrid2-with-load-mask.git"
   },
   "keywords": [
     "grid",
@@ -96,7 +96,7 @@
   "contributors": [],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pavelkuznetsov/react-datagrid2-with-load-mask/issues"
+    "url": "https://github.com/guncedev/react-datagrid2-with-load-mask/issues"
   },
-  "homepage": "https://github.com/pavelkuznetsov/react-datagrid2-with-load-mask"
+  "homepage": "https://github.com/guncedev/react-datagrid2-with-load-mask"
 }
